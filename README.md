@@ -1,4 +1,5 @@
-API example:
+Free upcoming Earning API
+example usage:
 
 To return one symbol:
 https://ab.tradeui.com/api/earnings.php?symbol=ACST
