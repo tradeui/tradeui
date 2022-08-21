@@ -12,6 +12,11 @@ https://ab.tradeui.com/api/earnings.php?symbolstart=BA
 https://ab.tradeui.com/api/earnings.php?symbolstart=BAC
 
 
+earning_time values are 1/2/3
+1 is before market open
+2 is after
+3 is not provided
+
 Result is in JSON:
 [
 {
