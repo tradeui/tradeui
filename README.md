@@ -1,6 +1,10 @@
 Free upcoming Earning API
 example usage:
 
+
+To return ALL symbols by date yyyy-mm-dd:
+https://ab.tradeui.com/api/earnings.php?date=2022-08-25 
+
 To return one symbol:
 https://ab.tradeui.com/api/earnings.php?symbol=ACST
 
